@@ -37,4 +37,4 @@ This project audits the "Net Zero" pledges of five major global corporations. By
 * `data/`: Contains the raw `greenwash_data.xlsx` used for this analysis.
 * `images/`: High-resolution exports of the Tableau visualizations.
 
-🔗 **[View the Interactive Tableau Dashboard Here](REPLACE_THIS_WITH_YOUR_TABLEAU_PUBLIC_URL)**
+
